@@ -1,0 +1,10 @@
+gradio==4.44.1
+fastai==2.7.12
+fastcore==1.5.29
+scikit-image
+openpyxl
+pandas
+httpx==0.24.1
+numpy<2
+torch>=1.7
+torchvision
